@@ -1,2 +1,3 @@
-# fast-project-planner-kx35
-Automated issue comment bot repository
+# Fast Project Planner Kx35
+
+Automated issue comment bot repository.
